@@ -5,8 +5,10 @@
 
 teams for project2 -read grid 
 
-        Tucker and Ian  (using tuckers repo) 
-
+        Tucker and Ian  
+                        idieli-bowdoin invited to use tuckers repo) 
+        Cristina and Brooke 
+                        Cristina invitde to use bsolomen24 repo
 
 
 
