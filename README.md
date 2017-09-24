@@ -11,7 +11,8 @@ teams for project2 -read grid
                         Cristina invitde to use bsolomen24 repo
         Jack Ward and Alex Gentle 
                         agentle invited to joliv repo
-
+        Phillip Wang and Jessica Webber 
+                        phillipwang1 invited to JessicaWebber repo
 
 
 teams for project1 - matrix multiplication 
