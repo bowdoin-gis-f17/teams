@@ -9,9 +9,9 @@ teams for project2 -read grid
                         idieli-bowdoin invited to tuckerwilliams1
         Cristina and Brooke 
                         CristinaTamay invited  bsolomon24 
-        Jack Ward and Alex Gentle 
+        Jack and Alex 
                         agentle invited to joliv 
-        Phillip Wang and Jessica Webber 
+        Phillip  and Jessica 
                         phillipwang1 invited to JessicaWebber 
         Kyle and Derek 
                         derekjyau invited to kyle-morrison 
@@ -23,9 +23,9 @@ teams for project1 - matrix multiplication
 
     Jake + Ethan
     Derek + Kyle 
-    Anjulle + James 
+    Anjulie + James 
     Brian + Nate 
     Sally + DoYeun 
     Phillip + Jess
-    Cristian and Hallie 
+    Cristina and Hallie 
 
