@@ -9,6 +9,8 @@ teams for project2 -read grid
                         idieli-bowdoin invited to use tuckers repo) 
         Cristina and Brooke 
                         Cristina invitde to use bsolomen24 repo
+        Jack Ward and Alex Gentle 
+                        agentle invited to joliv repo
 
 
 
