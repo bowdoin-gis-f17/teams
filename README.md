@@ -13,6 +13,10 @@ teams for project2 -read grid
                         agentle invited to joliv 
         Phillip Wang and Jessica Webber 
                         phillipwang1 invited to JessicaWebber 
+        Kyle and Derek 
+                        derekjyau invited to kyle-morrison 
+
+
 
 
 teams for project1 - matrix multiplication 
