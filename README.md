@@ -15,7 +15,8 @@ teams for project2 -read grid
                         phillipwang1 invited to JessicaWebber 
         Kyle and Derek 
                         derekjyau invited to kyle-morrison 
-
+        Nate and Brian 
+                        ndkent added to briangreenberg
 
 
 
